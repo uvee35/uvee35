@@ -5,8 +5,8 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 About Me:
-- 🧑‍💻 I'm a Freelance Full-Stack Developer with a passion for front-end development. My expertise lies in creating visually appealing, responsive designs and exceptional user experiences using HTML, CSS, and JavaScript.
-- 💻 Daily, I'm immersed in technologies like JavaScript, Java, Python, and SQL.
+- 🧑‍💻 I'm a Freelance Developer with a passion for front-end development. My expertise lies in creating visually appealing, responsive designs and exceptional user experiences using HTML, CSS, and JavaScript.
+- 💻 Daily, I'm immersed in technologies like JavaScript, Python, and Swift.
 - 📖 Currently, I'm enhancing my knowledge by reading "Designing Data Intensive Applications" by Martin Kleppmann.
 - 💬 Let's chat about Basketball, Python programming, the Silicon Valley ecosystem, and startup culture.
 - ♟ Fancy a game of Chess? Let's connect and play!
